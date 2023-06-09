@@ -1,0 +1,11 @@
+name: torch
+channels:
+  - pytorch
+dependencies:
+  - pytorch
+  - cpuonly
+  - torchvision
+  - torchaudio
+  - jupyter
+  - notebook
+  - pandas
