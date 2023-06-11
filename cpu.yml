@@ -9,3 +9,5 @@ dependencies:
   - jupyter
   - notebook
   - pandas
+  - pip:
+    - openpyxl
